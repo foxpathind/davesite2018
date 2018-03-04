@@ -1,0 +1,37 @@
+Title: Test client page
+
+----
+
+Client: Bonaparte
+
+----
+
+Featured: index
+
+----
+
+Text: 
+
+# Content running up to conference? 
+
+## Link to infleuncerss
+
+* Solicit articles from AL community
+* Publish on CreateTech Site
+
+
+## Marketing
+
+* Conference Identity
+* Design assets
+* Website??
+* Social media strategy
+	* Hashtag
+
+## Audience value statements
+
+## LA and other conferences 2017
+
+----
+
+Cardimage: 06-16-1104-01e-stn-town-and-country-snakes.jpg

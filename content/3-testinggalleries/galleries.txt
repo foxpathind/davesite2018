@@ -1,0 +1,53 @@
+Title: Testing Galleries
+
+----
+
+Text: Nec piget dicere avide magis hanc insulam populum Romanum invasisse quam iuste. Ptolomaeo enim rege foederato nobis et socio ob aerarii nostri angustias iusso sine ulla culpa proscribi ideoque hausto veneno voluntaria morte deleto et tributaria facta est et velut hostiles eius exuviae classi inpositae in urbem advectae sunt per Catonem, nunc repetetur ordo gestorum.
+
+----
+
+Textinslide: 
+
+----
+
+Gallery: 
+
+- 01-16-1075-01c-btf-robert-graham-day.jpg
+- >
+  01-17-1131-01d-stn-harrods-mag-shot-1.jpg
+- >
+  01-17-1131-02c-stn-harrods-mag-shot-2.jpg
+- >
+  01-16-1075-02e-btf-robert-graham-night.jpg
+
+----
+
+Gallery2: 
+
+- 02-13-01b-glamour-g7p-lipsticks.jpg
+- 02-13-02d-instyle-g7p-shoes.jpg
+- 02-13-03b-instyle-g7l-shoes-on-white.jpg
+- 02-13-stn-02c-fastco-g7p-scanner.jpg
+- 02-13-stn-03d-fastco-g7p-dominos.jpg
+- 02-13-stn-04b-fastco-g7p-sensors.jpg
+- 01-17-1132-02c-stn-elle-uk-shot-2.jpg
+
+----
+
+Gallery3: 
+
+- >
+  01-17-1131-02c-stn-harrods-mag-shot-2.jpg
+- 01-17-1132-01b-stn-elle-uk-shot-1.jpg
+- 08-15-1064-04h-stn-wallpaper-04.jpg
+- 2009-09-07a.jpg
+
+----
+
+Gallery4: 
+
+- 01-17-1132-01b-stn-elle-uk-shot-1.jpg
+- >
+  06-16-1104-04e-stn-town-and-country-birds-and-flowers.jpg
+- 02-13-stn-01e-fastco-g7p-cameras.jpg
+- 02-13-02d-instyle-g7p-shoes.jpg

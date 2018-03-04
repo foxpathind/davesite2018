@@ -1,0 +1,137 @@
+Title: Dave Herr Photo
+
+----
+
+Author: © Dave Herr
+
+----
+
+Description: samples of photo retouching by Dave Herr
+
+----
+
+Keywords: phtgrph,daveherr
+
+----
+
+Css: 
+
+/* Styling menu links 
+.menu {  }
+.menu a {  }
+.menu a:hover, .menu a:focus {  }
+.menu a.active, .menu a:active {  }
+*/
+/* Styling content links 
+a {  }
+a:hover, a:focus {  }
+a.active, a:active {  }
+*/
+
+----
+
+Mail: oliviergassies@openmailbox.org
+
+----
+
+Socialinmenu: 1
+
+----
+
+Showmenu: 1
+
+----
+
+Analytics-id: 
+
+----
+
+Piwik-url: 
+
+----
+
+Piwik-id: 
+
+----
+
+Bgcolor: #ffffff
+
+----
+
+Burger: <i class="fa fa-bars"></i>
+
+----
+
+Left: ←
+
+----
+
+Right: →
+
+----
+
+Close: ╳
+
+----
+
+Buy: Ajouter au panier
+
+----
+
+Languagesinmenu: 1
+
+----
+
+Socialtitle: Share
+
+----
+
+Languagestitle: Langue
+
+----
+
+Back: Retours
+
+----
+
+Maxwidth: 1024
+
+----
+
+Login: Login
+
+----
+
+Logout: Logout
+
+----
+
+More: +
+
+----
+
+Follow: 
+
+----
+
+Contentcolor: #000000
+
+----
+
+Contentacolor: #2199e8
+
+----
+
+Accordion: 1
+
+----
+
+Menuacolor: #2199e8
+
+----
+
+Primarycolor: #000000
+
+----
+
+Secondarycolor: #001eff

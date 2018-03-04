@@ -1,0 +1,16 @@
+#masonry {
+  overflow: hidden;
+  width: 860px;
+  padding: 50px 0;
+}
+#masonry ul {
+  width: 900px;
+}
+#masonry li {
+  float: left;
+  list-style: none;
+  width: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  line-height: 0;
+}

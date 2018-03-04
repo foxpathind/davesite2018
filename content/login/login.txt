@@ -1,0 +1,11 @@
+Title: Login
+----
+Alert: Invalid username or password
+----
+username: Username
+----
+password: Password
+----
+client: Client
+----
+button: Login

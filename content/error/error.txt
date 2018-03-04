@@ -1,0 +1,5 @@
+Title: Error
+
+----
+
+Text: La page que vous cherchez n'existe pas.

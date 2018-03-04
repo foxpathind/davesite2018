@@ -1,0 +1,36 @@
+Title: Portfolio Vertical
+
+----
+
+Date: 
+
+----
+
+Text: 
+
+### Galleries from the Testing Galleries page are include in the bottom of this page.
+And this page also has the kirby gallery field plugin for the first set of images arranged vertically with a back link
+
+----
+
+Link: 
+
+----
+
+Pictures: 
+
+- >
+  06-16-1104-04e-stn-town-and-country-birds-and-flowers.jpg
+- >
+  06-16-1104-05d-stn-town-and-country-greek.jpg
+
+----
+
+Gallery: 
+
+- >
+  06-16-1104-01e-stn-town-and-country-snakes.jpg
+- >
+  06-16-1104-04e-stn-town-and-country-birds-and-flowers.jpg
+- >
+  06-13-01c-1012-stn-departures-g7l-ring.jpg

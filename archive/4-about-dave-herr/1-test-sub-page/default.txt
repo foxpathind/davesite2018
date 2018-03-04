@@ -1,0 +1,10 @@
+Title: Test Sub Page
+
+----
+
+Text: 
+
+# Here is a test subpage
+
+* With some text
+* [Link to markdown syntax: used in Kirby called KirbyText](https://getkirby.com/docs/content/text#markdown-extra)

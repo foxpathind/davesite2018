@@ -1,0 +1,65 @@
+Title: Site Instrux
+
+----
+
+Text: 
+
+# Congratulations and welcome to your site !
+Your installation is successful.
+Thank you for choosing PHTGRPH.
+
+# Licences
+PHTGRPH needs a license of PHTGRPH ((link: https://sellfy.com/p/wvGG/ text: 20€)) and a license of KIRBY CMS ((link: https://getkirby.com/buy text: 15€)), the content management system included.
+
+# Managing site (panel)
+The panel is the site management interface to configure your site, add or delete content. Go to (link: panel text: panel) with the username "admin" and password as "admin" (remember to change the password).
+
+# Quick formating
+## 1. Set your website (name, styles, buttons)
+In (link: /panel/options text: Menu > Site Settings), complete the general settings and change the content settings (the general width, colors), define the site buttons ("<", ">",  "more", etc.), and the design of the menu (visibility, accordion option). The last two sections (advanced changes, analytics) can be left empty.
+## 2. Set your content
+In (link: /panel text: Menu > Dashboard), you reach the part that lets you create, edit and delete pages.
+PHTGRPH comes with different designs for pages, called templates : simple page, portfolios (vertical, slideshow, thumbnails, etc.).  When you create a new page, choose a title and select a template (this options can be changed after). When the page is created, fill the content you want (texte, pictures, etc.). and make sure to turn on "visible" in sidebar. Thus, your page will be visible and its title will appear in your menu.
+##3. Structure your content.
+Pages can be placed in sections. A section appears as a separate group in the menu. In the panel, first create a page with the "section" template. This will be a "folder" for your other pages. Select the section, then create pages you want inside. It is preferable to define your site structure before starting to create pages and sections.
+
+# Advanced Formatting
+## 1.CSS Styles
+In (link: /panel/dashboard text: Menu > Site Settings), "Advanced Changes" section allows you to enter directly CSS :
+```
+html {font-size: 110%; }
+```
+Each template (page, slideshow, thumbs, vertical, etc.) has a specific class to apply specific styles, for example:
+```
+.portfolio-slideshow img {border: 1px solid #000; }
+```
+
+# Remember to check the htaccess file
+```
+# make sure to set the RewriteBase correctly
+# if you are running the site in a subfolder.
+# Otherwise links or the entire site will break.
+#
+# If your homepage is http://yourdomain.com/mysite
+# Set the RewriteBase to:
+#
+RewriteBase /phtgrphtest/
+```
+
+# More informations
+For more information you should (link: oliviergassies@openmailbox.org text: contact  me). And for Kiby CMS, you should browse (link: http://getkirby.com/docs text: documentation).
+
+# Feedback
+Feel free to (link: oliviergassies@openmailbox.org text: send me) a link to your website to the "made with" page.
+
+----
+
+Featured: 
+
+----
+
+Client: testing
+
+----
+
+Cardimage: 

@@ -1,0 +1,64 @@
+@media screen and (min-width: 63.9375em) {
+html { font-size: 85%; }
+}
+
+h1 { font-size: 1.4rem; padding-top: 0.5rem; }
+h2 { font-size: 1.2rem; padding-top: 0.5rem; }
+h3 { font-size: 1rem; padding-top: 0.5rem; }
+.fa { font-family: FontAwesome !important; }
+
+/* more css items */
+.no-padding { padding: 0rem !important; }
+.no-margin { margin: 0rem !important; }
+
+figure { margin: 0px; padding: 0px; }
+.space { padding: 0px; margin: 0rem; height: 1rem; }
+
+
+/* ========== ALL MENU ========== */
+.menu-text { font-weight: normal; }
+
+/* ========== OFF-CANVAS MENU ========== */
+/* Margin, padding */
+.off-canvas{ height: 100%; background: transparent; }
+.off-canvas .is-accordion-submenu-parent > a::after { display: none; }
+.off-canvas .menu > li > a, .off-canvas .menu-text { padding: 0.2rem 0rem; }
+.off-canvas .menu.nested { margin-left: 0.3rem; }
+/* Vertical position */
+.off-canvas .top { padding-top: 0.5rem; }
+.off-canvas .bottom { padding-top: 2rem;  }
+/* Section style */
+.off-canvas .menu-text { opacity: 1 !important; }
+
+
+/* ========== OFF-CANVAS CONTENT ========== */
+.off-canvas-content, .content { box-shadow: none; }
+.content { min-height: 40.3rem; }
+@media screen and (min-width: 63.9375em) { .content { padding-top: 1rem; } }
+
+
+/* ========== HOME INDEX ========== */
+.image-wrapper { overflow: hidden;  position: relative; text-align: center; }
+.image-overlay-content { width: 100%; height: 100%; position: absolute; overflow: hidden; top: 0; left: 0; }
+.overlay-fade-in img { transition: all 0.2s linear; }
+.overlay-fade-in .image-overlay-content { opacity: 0; background-color: rgba(256, 256, 256, 0.9); transition: all 0.4s ease-in-out; }
+.overlay-fade-in a { display: inline-block; text-decoration: none; position: relative; opacity: 0; margin-top: 30%; transition: all 0.2s ease-in-out; }
+.overlay-fade-in:hover .image-overlay-content { opacity: 1; }
+.overlay-fade-in a { opacity: 1; }
+.overlay-fade-in:hover a { transition-delay: 0.2s; }
+
+
+/* ========== PORTFOLIO-SLIDESHOW ========== */
+/* slider : nav over image */
+.item { position: relative; }
+.prev-hover { position: absolute; background-color: transparent; width : 50%; height: 100%; top : 0px; left : 0px; z-index: 999; cursor: w-resize; }
+.next-hover { position: absolute; background-color: transparent; width : 50%; height: 100%; top : 0px; right : 0px; z-index: 999; text-align: right; cursor: e-resize; }
+
+
+/* ========== PORTFOLIO-THUMBS ========== */
+/* Thumbs marges */
+.column { padding: 1px; } 
+/* pop-up */
+.reveal-overlay { background-color: rgba(256, 256, 256, 0.9); }
+.reveal { border: 1px solid #8a8a8a; text-align: center; padding: 0; }
+.close-button { font-size: 1rem; top: 1rem;}

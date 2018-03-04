@@ -1,0 +1,16 @@
+Title: Home
+
+----
+
+Text: 
+
+# Welcome to Dave Herr's Website.
+###Your text goes here.
+
+----
+
+Randomimage: 0
+
+----
+
+Featured: shuffle
